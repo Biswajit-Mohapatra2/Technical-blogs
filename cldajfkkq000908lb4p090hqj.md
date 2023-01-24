@@ -10,7 +10,7 @@ If you want to execute some commands during boot up(launch), you can execute the
 
 **How to create an EC2 instance in the AWS console?**
 
-**What is an EC2 instance?** 
+**What is an EC2 instance?**
 
 It is a virtual server provided by AWS. Amazon Elastic Compute Cloud (Amazon EC2) provides scalable computing capacity in the Amazon Web Services (AWS) Cloud. Using Amazon EC2 eliminates your need to invest in hardware upfront, so you can develop and deploy applications faster. You can use Amazon EC2 to launch as many or as few virtual servers as you need, configure security and networking, and manage storage. Amazon EC2 enables you to scale up or down to handle changes in requirements or spikes in popularity, reducing your need to forecast traffic.
 
@@ -51,7 +51,7 @@ echo "Jenkins installed successfully.."
 
 # ***Steps:***
 
-**1.** **<mark>Login to the AWS console by clicking this link&nbsp;-:&nbsp;</mark>** [**<mark>https://aws.amazon.com/console/</mark>**](https://aws.amazon.com/console/)
+**1.** **<mark>Login to the AWS console by clicking this link&nbsp;-:&nbsp;</mark>**  [**<mark>https://aws.amazon.com/console/</mark>**](https://aws.amazon.com/console/)
 
 **<mark>Click on All services, Click on Compute --&gt;&nbsp; Click on EC2</mark>**
 
@@ -61,7 +61,7 @@ echo "Jenkins installed successfully.."
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizWxYmW843q5-ku87mgfjDqfG5KSNPwXPDyoVeTtjtrN59nMLHZiPGZjpWaOcH_V1SookbvUVrfF-vsuACdfBZF6tND6z0pT3GU-lTTYJg-Q4mNjxlDjZC40lIHuF2KDmImI2aegg8Vctt_tYDj4VzxYb98GwOULGlpQDHDGAmXjTWahdf4V-LS0WT/s2378/Screen%20Shot%202022-05-01%20at%204.24.01%20PM.png align="left")
 
-**3.** **<mark>Enter Name as Jenkins-EC2 and&nbsp;enter 1 as the number of instances</mark>**
+**3.** **<mark>Enter Name as EC2 and&nbsp;enter 1 as the number of instances</mark>**
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoaKxThUhobUZPhPZRALovaKMXiI64lIPpIgonj59fZ16ik-HX0jB132o7EHQFYDG8xCZg_PIURT2nsJZJE5HrrpwlV_0fdcTaMbdHDBYSbELZckOawTPR17s9I7oYpJ2d2RJx1Jy0swtanMxulokaft0vWsoTagv1_5v8gMIhMbVLbLeyAnwbGxBv/s1802/Screen%20Shot%202022-05-01%20at%204.25.32%20PM.png align="left")
 
@@ -73,7 +73,7 @@ echo "Jenkins installed successfully.."
 
 **6\. <mark>You can choose the existing Key Or You Can create new key-pair</mark>**
 
-**7. <mark> Under Network settings, Click Edit</mark>**
+**7\. <mark>Under Network settings, Click Edit</mark>**
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3Ei8X-IkfsarxT7q0N-sxQPCU9835rlGDwp55cX8KwSseDulJ415y2LhEZryH5SpWwXUuaqGrl-31krQ4a9c_K4PHaYNPxm5LIPdiZHestM0zdDhNISnH_tsmu7CzellKVvC7FjTftUeVBxEaJ8PtzEedQ9phu4SsZfNGRA1BHsDfar8SDA8hPIpm/s1552/Screen%20Shot%202022-05-01%20at%204.33.22%20PM.png align="left")
 
