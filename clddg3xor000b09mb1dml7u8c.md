@@ -55,13 +55,13 @@ We will see how you can use Terraform to provision an EC2 instance. Please do th
 
 ![](https://1.bp.blogspot.com/-wK_9Gne-oM0/YN4XnTlzI5I/AAAAAAAADiM/z_aOKlSVQY8R5moffL7xgNQL29mkn0dHwCLcBGAsYHQ/s521/Screen%2BShot%2B2021-07-01%2Bat%2B2.28.41%2BPM.png align="center")
 
-<mark>Type your IAM role name&nbsp;</mark> *<mark>my-ec2-terraform-role</mark>* <mark>&nbsp;and Save it to attach that role to the EC2 instance.</mark>
+<mark>Type your IAM role name&nbsp;</mark>  *<mark>my-ec2-terraform-role</mark>*  <mark>&nbsp;and Save it to attach that role to the EC2 instance.</mark>
 
 ![](https://1.bp.blogspot.com/-10qb_l7RARQ/YN4YZoCZLII/AAAAAAAADiU/opRm4M_jW6U_lK4rJQVRJoyYjJMgUI81QCLcBGAsYHQ/s789/Screen%2BShot%2B2021-07-01%2Bat%2B2.32.15%2BPM.png align="center")
 
 <mark>Login to the EC2 instance where you have installed Terraform</mark>.
 
-### **Step 3:- Create Terraform files**
+### **Step 3 -: Create Terraform files**
 
 <mark>Creating separate directory for terraform files.</mark>
 
@@ -112,7 +112,7 @@ variable "ami_id" {
 #Make sure after your custom changes there is no need for square bracket, i only give it for understanding the concept..
 ```
 
-<mark>Save the file with </mark> **<mark>ESC </mark>** <mark>then</mark> **<mark> :wq!</mark>** <mark> Command</mark>.
+<mark>Save the file with </mark> **<mark>ESC </mark>** <mark>then</mark> **<mark>:wq!</mark>** <mark>Command</mark>.
 
 **<mark>Now create main.tf file</mark>**
 
@@ -184,9 +184,9 @@ tags= {
 }
 ```
 
-<mark>Save the file with </mark> **<mark>ESC</mark>** <mark> then </mark> **<mark>:wq!</mark>** <mark> Command</mark>.
+<mark>Save the file with </mark> **<mark>ESC</mark>** <mark>then </mark> **<mark>:wq!</mark>** <mark>Command</mark>.
 
-### **Step 4:- Execute Terraform Commands**
+### **Step 4 -: Execute Terraform Commands**
 
 <mark>Now execute the below command:</mark>
 
@@ -208,9 +208,9 @@ terraform plan
 
 Do you want to perform these actions?  
   Terraform will perform the actions described above.  
-  Only 'yes' will be accepted to approve.  
-  
-  Enter a value: **<mark>yes</mark>**  
+  Only 'yes' will be accepted to approve.
+
+Enter a value: **<mark>yes</mark>**  
 Apply complete! Resources: 4 added, 0 changed, 0 destroyed.
 
 **Next, apply the changes to your AWS environment:**
