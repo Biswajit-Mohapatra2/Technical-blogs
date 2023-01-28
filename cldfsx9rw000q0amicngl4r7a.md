@@ -33,7 +33,7 @@ Ansible is the #1 configuration management tool. It can also be used for infrast
     The code or binaries that Ansible copies to and executes on each managed node (when needed) to accomplish the action defined in each Task. Each module has a particular use, from administering users on a specific type of database to managing VLAN interfaces on a specific type of network device. You can invoke a single module with a task, or invoke several different modules in a playbook. Ansible modules are grouped in collections.
     
 
-<mark>The best way to install Ansible for Ubuntu is to add the </mark> **<mark>project's PPA (personal package archive)</mark>** <mark> to your system</mark>. <mark>You also would need the Boto framework for provisioning resources in the AWS cloud</mark>.
+<mark>The best way to install Ansible for Ubuntu is to add the </mark> **<mark>project's PPA (personal package archive)</mark>** <mark>to your system</mark>. <mark>You also would need the Boto framework for provisioning resources in the AWS cloud</mark>.
 
 ![](https://1.bp.blogspot.com/-ZDtWSyXtIcU/XqYSWx1n_fI/AAAAAAAACAU/InaCcAVwuL0kMR4vcpHkN90mi5RSRlADQCLcBGAsYHQ/s1600/ansible-boto.png align="center")
 
@@ -105,6 +105,6 @@ ansible --version
 
 # Conclusion:
 
-As a last thought, we conclude that Ansible exists to offer a straightforward and effective package for configuration management and automation. Being new to the software application market, Ansible faces tough competition from renowned sources.
+As a last thought, I conclude that Ansible exists to offer a straightforward and effective package for configuration management and automation. Being new to the software application market, Ansible faces tough competition from renowned sources.
 
-In this article, i have tried my best to cover as maximum as possible important aspects of Ansible to make you aware of this technology in the best possible way.
+In this article, I have tried my best to cover as maximum as possible important aspects of Ansible to make you aware of this technology in the best possible way.
