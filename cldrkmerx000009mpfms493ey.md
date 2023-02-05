@@ -15,7 +15,7 @@ We will learn how to automate Docker builds using Jenkins. We will use a **Pytho
 
 # **Pre-requisites:**
 
-1\. [**<mark>Jenkins</mark>**](https://biswajitblogs.hashnode.dev/how-to-setup-jenkins-in-ubuntu-ec2-instance) <mark> is up and running</mark>  
+1\. [**<mark>Jenkins</mark>**](https://biswajitblogs.hashnode.dev/how-to-setup-jenkins-in-ubuntu-ec2-instance) <mark>is up and running</mark>  
 2\. <mark>Docker installed on Jenkins instance and configured</mark>.  
 3\. <mark>Docker plug-in installed in Jenkins</mark>  
 4\. <mark>user account setup in https://cloud.docker.com</mark>  
@@ -55,7 +55,7 @@ Make sure you take note of the ID as circled below:
 
 ### **Step # 3 - Write the pipeline code**
 
-<mark>Make sure you change the </mark> **<mark>Emoji highlighted</mark>** <mark> values below:<br>Your docker user id should be updated.<br>your registry credentials ID from Jenkins from step # 1 should be copied.</mark>
+<mark>Make sure you change the </mark> **<mark>Emoji highlighted</mark>** <mark>values below:<br>Your docker user id should be updated.<br>your registry credentials ID from Jenkins from step # 1 should be copied.</mark>
 
 ```json
 pipeline {
@@ -118,7 +118,7 @@ pipeline {
 
 ### **Step # 4 - Click on Build - Build the pipeline**
 
-<mark>Once you create the pipeline and change values per your Docker user id and credentials ID, click on&nbsp;</mark> **<mark>Save and Apply.</mark>** <mark> Then Click </mark> **<mark>Build</mark>** <mark> Option.</mark>
+<mark>Once you create the pipeline and change values per your Docker user id and credentials ID, click on&nbsp;</mark>  **<mark>Save and Apply.</mark>** <mark>Then Click </mark> **<mark>Build</mark>** <mark>Option.</mark>
 
 ![](https://1.bp.blogspot.com/-unjvlO0qHMc/Xq-VmOCbBgI/AAAAAAAACGg/yUpuPTCychUqKeVpAO7j3H8jhw-71b9gQCLcBGAsYHQ/s1600/pipeline%2Bview.png align="center")
 
@@ -139,5 +139,7 @@ pipeline {
 <mark>Your Pipelining Project is done🤟🤟...</mark>
 
 <mark>Enjoy!!</mark>
+
+***If you liked this blog post, consider liking and commenting on it and Sharing it with your friends.***
 
 **~Biswajit Mohapatra**
