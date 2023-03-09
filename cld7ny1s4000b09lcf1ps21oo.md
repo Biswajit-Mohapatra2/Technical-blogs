@@ -1,4 +1,12 @@
-# How to setup Jenkins in Ubuntu EC2 instance?
+---
+title: "How to setup Jenkins in Ubuntu EC2 instance?"
+datePublished: Sun Jan 22 2023 17:38:19 GMT+0000 (Coordinated Universal Time)
+cuid: cld7ny1s4000b09lcf1ps21oo
+slug: how-to-setup-jenkins-in-ubuntu-ec2-instance
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1674406061022/5d70c87b-d1b9-4590-b0ac-827c2caefb0f.webp
+tags: hashnode, blogswithcc, jenkins-devops, kunalkushwaha, wemakedevs
+
+---
 
 ---
 
