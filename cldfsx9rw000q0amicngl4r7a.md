@@ -1,4 +1,12 @@
-# How to setup Ansible on Ubuntu
+---
+title: "How to setup Ansible on Ubuntu"
+datePublished: Sat Jan 28 2023 10:19:50 GMT+0000 (Coordinated Universal Time)
+cuid: cldfsx9rw000q0amicngl4r7a
+slug: how-to-setup-ansible-on-ubuntu
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1674897543922/5f18da3c-924e-41b5-a73b-d93b965298d8.png
+tags: aws, ansible, hashnode, blogswithcc, wemakedevs
+
+---
 
 ---
 
