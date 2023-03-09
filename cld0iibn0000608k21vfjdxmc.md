@@ -1,5 +1,13 @@
-# Shell Scripting Interview
-Questions
+---
+title: "Shell Scripting Interview
+Questions"
+datePublished: Tue Jan 17 2023 17:31:44 GMT+0000 (Coordinated Universal Time)
+cuid: cld0iibn0000608k21vfjdxmc
+slug: shell-scripting-interview-questions
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1673969254472/c8980016-150f-45af-835d-d5f243844ab1.jpeg
+tags: linux, hashnode, shell-script, kunalkushwaha, wemakedevs
+
+---
 
 ---
 
