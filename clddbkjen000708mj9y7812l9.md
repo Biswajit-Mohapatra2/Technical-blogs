@@ -1,4 +1,12 @@
-# How to install Terraform on Ubuntu
+---
+title: "How to install Terraform on Ubuntu"
+datePublished: Thu Jan 26 2023 16:38:30 GMT+0000 (Coordinated Universal Time)
+cuid: clddbkjen000708mj9y7812l9
+slug: how-to-install-terraform-on-ubuntu
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1674749949128/e5369077-68e0-4db2-a4c4-0623c8860430.png
+tags: hashnode, terraform, blogswithcc, kunalkushwaha, wemakedevs
+
+---
 
 ---
 
