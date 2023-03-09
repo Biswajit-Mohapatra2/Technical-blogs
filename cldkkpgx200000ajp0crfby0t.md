@@ -1,4 +1,12 @@
-# Jenkins Interview Questions
+---
+title: "Jenkins Interview Questions"
+datePublished: Tue Jan 31 2023 18:28:40 GMT+0000 (Coordinated Universal Time)
+cuid: cldkkpgx200000ajp0crfby0t
+slug: jenkins-interview-questions
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1675186777322/98e9cfbd-9089-46bf-9c70-ce26a15888bd.png
+tags: cloud, hashnode, jenkins, blogswithcc, wemakedevs
+
+---
 
 ---
 
