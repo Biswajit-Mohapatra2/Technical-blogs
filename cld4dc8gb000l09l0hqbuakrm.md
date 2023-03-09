@@ -1,4 +1,12 @@
-# Docker Interview Questions
+---
+title: "Docker Interview Questions"
+datePublished: Fri Jan 20 2023 10:18:06 GMT+0000 (Coordinated Universal Time)
+cuid: cld4dc8gb000l09l0hqbuakrm
+slug: docker-interview-questions
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/HSACbYjZsqQ/upload/831bd21f8f46e6e2dc0321c7ccac08e5.jpeg
+tags: docker, hashnode, docker-compose, blogswithcc, wemakedevs
+
+---
 
 ---
 
