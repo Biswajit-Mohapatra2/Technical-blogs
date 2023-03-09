@@ -1,4 +1,12 @@
-# AWS Interview Questions
+---
+title: "AWS Interview Questions"
+datePublished: Mon Jan 16 2023 07:01:32 GMT+0000 (Coordinated Universal Time)
+cuid: clcygk0wr000008l6brkrbrjq
+slug: aws-interview-questions
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/6ie6OjshvWg/upload/abf60bcaa7417c93d57441cee4f04db7.jpeg
+tags: interview, aws, hashnode, kunalkushwaha, wemakedevs
+
+---
 
 ---
 
