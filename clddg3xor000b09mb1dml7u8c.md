@@ -1,4 +1,12 @@
-# How to create EC2 instance using Terraform
+---
+title: "How to create EC2 instance using Terraform"
+datePublished: Thu Jan 26 2023 18:45:34 GMT+0000 (Coordinated Universal Time)
+cuid: clddg3xor000b09mb1dml7u8c
+slug: how-to-create-ec2-instance-using-terraform
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1674753806493/391ddef1-cea3-4330-a047-6d733dc2d277.png
+tags: devops, hashnode, terraform, blogswithcc, wemakedevs
+
+---
 
 ---
 
