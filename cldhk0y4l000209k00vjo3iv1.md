@@ -1,4 +1,12 @@
-# Create new EC2 instance in AWS cloud using Ansible Playbook
+---
+title: "Create new EC2 instance in AWS cloud using Ansible Playbook"
+datePublished: Sun Jan 29 2023 15:46:17 GMT+0000 (Coordinated Universal Time)
+cuid: cldhk0y4l000209k00vjo3iv1
+slug: create-new-ec2-instance-in-aws-cloud-using-ansible-playbook
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1675004897122/26982e5e-e491-4f9b-ac15-2a71fbe400be.png
+tags: aws, ansible, hashnode, blogswithcc, wemakedevs
+
+---
 
 ---
 
