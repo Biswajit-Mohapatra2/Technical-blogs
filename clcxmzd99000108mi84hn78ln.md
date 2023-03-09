@@ -1,4 +1,12 @@
-# Introduction To Git
+---
+title: "Introduction To Git"
+datePublished: Sun Jan 15 2023 17:13:39 GMT+0000 (Coordinated Universal Time)
+cuid: clcxmzd99000108mi84hn78ln
+slug: introduction-to-git
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/wX2L8L-fGeA/upload/bb0424c1bbd9f2abde532e118b5839b4.jpeg
+tags: hashnode, wemakedevs
+
+---
 
 ---
 
