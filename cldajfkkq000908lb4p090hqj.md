@@ -1,4 +1,12 @@
-# How To Setup Jenkins using BootStrap Scripts in AWS EC2 Instance while Launching
+---
+title: "How To Setup Jenkins using BootStrap Scripts in AWS EC2 Instance while Launching"
+datePublished: Tue Jan 24 2023 17:55:17 GMT+0000 (Coordinated Universal Time)
+cuid: cldajfkkq000908lb4p090hqj
+slug: how-to-setup-jenkins-using-bootstrap-scripts-in-aws-ec2-instance-while-launching
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1674579843915/9ca452ed-7054-41d7-bae8-dcc851f76409.webp
+tags: aws, hashnode, jenkins-devops, kunalkushwaha, wemakedevs
+
+---
 
 ---
 
