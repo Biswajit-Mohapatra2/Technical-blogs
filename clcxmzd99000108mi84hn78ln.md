@@ -1,12 +1,12 @@
 ---
 title: "Introduction To Git"
+seoTitle: "Introduction to version control system"
+seoDescription: "Git is a free and open-source distributed version control system, which is designed to handle everything from small to very large projects with speed."
 datePublished: Sun Jan 15 2023 17:13:39 GMT+0000 (Coordinated Universal Time)
 cuid: clcxmzd99000108mi84hn78ln
 slug: introduction-to-git
-cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/wX2L8L-fGeA/upload/bb0424c1bbd9f2abde532e118b5839b4.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1685221710288/3b7563b0-e653-4ec0-b217-137ba1786837.png
 tags: hashnode, wemakedevs
-
----
 
 ---
 
@@ -15,6 +15,8 @@ tags: hashnode, wemakedevs
 # What is GIT?
 
 Git is a free and open-source distributed version control system, which is designed to handle everything from small to very large projects with speed and efficiency.
+
+---
 
 ## So Why Git? What are the advantages?
 
@@ -480,7 +482,7 @@ It is applied as follows:
     
 * **git bisect good v1.0** - Mention the last working commit.
     
-* **git bisect bad** \- Mentioning that the current commit has a bug.
+* **git bisect bad** - Mentioning that the current commit has a bug.
     
 * It will return the commit which causes the bug and one can debug the issue efficiently.
     
