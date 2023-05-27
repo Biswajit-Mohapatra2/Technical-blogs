@@ -3,7 +3,7 @@ title: "Dockerize Python App"
 datePublished: Sun Feb 05 2023 16:00:41 GMT+0000 (Coordinated Universal Time)
 cuid: cldrkmerx000009mpfms493ey
 slug: dockerize-python-app
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1675609892093/9d060258-d25b-435e-93dc-ffab10bbb50b.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1685216577542/76514e20-b5fe-4b7a-be97-13028612b30d.png
 tags: docker, python, hashnode, blogswithcc, wemakedevs
 
 ---
