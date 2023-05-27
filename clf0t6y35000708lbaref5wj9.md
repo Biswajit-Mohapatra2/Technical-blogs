@@ -3,7 +3,7 @@ title: "Deploy Springboot Microservices App into Amazon EKS Cluster using Jenkin
 datePublished: Thu Mar 09 2023 07:50:14 GMT+0000 (Coordinated Universal Time)
 cuid: clf0t6y35000708lbaref5wj9
 slug: deploy-springboot-microservices-app-into-amazon-eks-cluster-using-jenkins-pipeline
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1678343273500/cd2e75fc-148b-480c-8e39-7f1022481e5b.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1685215421926/6416e57e-dc1b-4efe-8619-edba6ce69292.png
 tags: aws, kubernetes, jenkins, ci-cd, blogswithcc
 
 ---
