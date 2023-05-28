@@ -1,9 +1,11 @@
 ---
 title: "How to create EC2 instance using Terraform"
+seoTitle: "Terraform With AWS"
+seoDescription: "Terraform is an open-source tool for provisioning and managing cloud infrastructure. Terraform can provision resources on any cloud platform."
 datePublished: Thu Jan 26 2023 18:45:34 GMT+0000 (Coordinated Universal Time)
 cuid: clddg3xor000b09mb1dml7u8c
 slug: how-to-create-ec2-instance-using-terraform
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1674753806493/391ddef1-cea3-4330-a047-6d733dc2d277.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1685252566093/243516bd-fadf-4466-af81-a07ba593f802.png
 tags: devops, hashnode, terraform, blogswithcc, wemakedevs
 
 ---
