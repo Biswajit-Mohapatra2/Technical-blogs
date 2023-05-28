@@ -1,9 +1,11 @@
 ---
 title: "Jenkins Interview Questions"
+seoTitle: "Jenkins Interview Questions For Freshers"
+seoDescription: "Jenkins is a self-contained, open-source automation server that can be used to automate all sorts of tasks related to building, testing and delivering...."
 datePublished: Tue Jan 31 2023 18:28:40 GMT+0000 (Coordinated Universal Time)
 cuid: cldkkpgx200000ajp0crfby0t
 slug: jenkins-interview-questions
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1675186777322/98e9cfbd-9089-46bf-9c70-ce26a15888bd.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1685250429427/3b8384ce-7619-4bf4-8b15-a1d6d0102474.png
 tags: cloud, hashnode, jenkins, blogswithcc, wemakedevs
 
 ---
