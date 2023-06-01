@@ -5,7 +5,7 @@ seoDescription: "AWS is a cloud computing service offered by Amazon. AWS lets yo
 datePublished: Mon Jan 16 2023 07:01:32 GMT+0000 (Coordinated Universal Time)
 cuid: clcygk0wr000008l6brkrbrjq
 slug: aws-interview-questions
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1685627256316/5571a68f-d73d-43af-b8d1-8902a77a9926.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1685630831321/0852337e-48fa-429d-bc60-1eaa145654e6.png
 tags: interview, aws, hashnode, kunalkushwaha, wemakedevs
 
 ---
