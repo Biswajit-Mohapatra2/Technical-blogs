@@ -1,9 +1,11 @@
 ---
 title: "AWS Interview Questions"
+seoTitle: "IMPORTANT AWS INTERVIEW QUESTIONS AND ANSWERS."
+seoDescription: "AWS is a cloud computing service offered by Amazon. AWS lets you build, test, deploy and manage applications and services."
 datePublished: Mon Jan 16 2023 07:01:32 GMT+0000 (Coordinated Universal Time)
 cuid: clcygk0wr000008l6brkrbrjq
 slug: aws-interview-questions
-cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/6ie6OjshvWg/upload/abf60bcaa7417c93d57441cee4f04db7.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1685627256316/5571a68f-d73d-43af-b8d1-8902a77a9926.png
 tags: interview, aws, hashnode, kunalkushwaha, wemakedevs
 
 ---
@@ -14,7 +16,7 @@ tags: interview, aws, hashnode, kunalkushwaha, wemakedevs
 
 ### 1\. What is AWS?
 
-AWS is a cloud computing service offered by Amazon. AWS lets you build, test, deploy and manage applications and services. All this is done via the data-centers and the hardware managed by Amazon. AWS provides you with a combination of Infrastructure-as-a-Service (IaaS), Platform-as-a-Service (PaaS), and Soware-as-a-Service (SaaS) offerings.
+AWS is a cloud computing service offered by Amazon. AWS lets you build, test, deploy and manage applications and services. All this is done via the data centers and the hardware managed by Amazon. AWS provides you with a combination of Infrastructure-as-a-Service (IaaS), Platform-as-a-Service (PaaS), and Soware-as-a-Service (SaaS) offerings.
 
 You can use AWS to create Virtual Machines which can be armed with processing power, storage capacity, and analytics along with networking and device management. AWS offers you a pay-as-you-go model, which helps to avoid upfront costs and pay based on usage monthly.
 
