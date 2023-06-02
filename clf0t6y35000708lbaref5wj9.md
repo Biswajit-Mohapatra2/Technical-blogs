@@ -1,5 +1,7 @@
 ---
 title: "Deploy Springboot Microservices App into Amazon EKS Cluster using Jenkins Pipeline"
+seoTitle: "Springboot App and Deploy into EKS Cluster"
+seoDescription: "how to automate spring-boot microservices builds using the Jenkins pipeline and Deploy it into AWS EKS Cluster with help of the Kubernetes CLI plug-in."
 datePublished: Thu Mar 09 2023 07:50:14 GMT+0000 (Coordinated Universal Time)
 cuid: clf0t6y35000708lbaref5wj9
 slug: deploy-springboot-microservices-app-into-amazon-eks-cluster-using-jenkins-pipeline
@@ -12,7 +14,7 @@ tags: aws, kubernetes, jenkins, ci-cd, blogswithcc
 
 ![Animation GIF](https://cdn.hashnode.com/res/hashnode/image/upload/v1678346732265/10070d8f-eb90-4262-8ffb-5fa85a0cc4b6.gif align="center")
 
-We will learn how to automate spring-boot microservices builds using the Jenkins pipeline and Deploy it into AWS EKS Cluster with help of the Kubernetes CLI plug-in.
+We will learn how to automate spring-boot microservices builds using the Jenkins pipeline and Deploy it into AWS EKS Cluster with the help of the Kubernetes CLI plug-in.
 
 We will use Springboot Microservices-based Java application. I have already created a repo with source code + Dockerfile. The repo also has Jenkinsfile for automating the following:
 
@@ -137,7 +139,7 @@ Your docker user id should be updated.
 > 
 > steps {
 > 
-> checkout(\[$class: 'GitSCM', branches: \[\[name: '\*/main'\]\], doGenerateSubmoduleConfigurations: false, extensions: \[\], submoduleCfg: \[\], userRemoteConfigs: \[\[credentialsId: '', url: '[https://github.com/akannan1087/springboot-app](https://github.com/akannan1087/springboot-app)'\]\]\])
+> checkout(\[$class: 'GitSCM', branches: \[\[name: '\*/main'\]\], doGenerateSubmoduleConfigurations: false, extensions: \[\], submoduleCfg: \[\], userRemoteConfigs: \[\[credentialsId: '', url: '[**https://github.com/Biswajit-Mohapatra2/My-SpringBoot-App.git**](https://github.com/Biswajit-Mohapatra2/My-SpringBoot-App.git)**'**\]\]\])
 > 
 > }
 > 
@@ -213,7 +215,7 @@ Your docker user id should be updated.
 
 ## **Step # 5 - Build the pipeline**
 
-<mark>Once you create the pipeline and changes values per your configuration, click on Build now:</mark>
+<mark>Once you create the pipeline and changes values per your configuration, click on Build Now:</mark>
 
 ![Pipeline Build](https://blogger.googleusercontent.com/img/a/AVvXsEi_H6PgEVPk7Cu8iikw6Ac8wtfABBU5AjyimjzRCSCkoF4ePKYSXCljhlL5OeBMC6WczqwXZogi-t_y5F_zMe7Mn0zKMFKLdQ-lNfaFTkvRYOtQeAKBTmp45S8h2omnPNdc-MUj_p2K1aNK2da4fLB-cPSe9o50qHYc50j4Y29AJV7c8r3NKzDRyHnL=s1628 align="center")
 
@@ -225,19 +227,13 @@ Your docker user id should be updated.
 kubectl get pods
 ```
 
-![](https://1.bp.blogspot.com/-xPmhS4ehKKM/X9lOutozp5I/AAAAAAAADLc/8EotGJ1lUOkLB0I0riVX9qVNhsUZhZUbgCLcBGAsYHQ/s583/podd2.png align="center")
-
 ```bash
 kubectl get deployments
 ```
 
-![](https://1.bp.blogspot.com/-3rBuEPQN6JE/X9lOuq2G65I/AAAAAAAADLY/741eWCCWbzAvvb9d4WisbDYVi9tEPZqHwCLcBGAsYHQ/s535/d1.png align="center")
-
 ```bash
 kubectl get services
 ```
-
-![](https://1.bp.blogspot.com/-Uwqj5y55nmU/X9lOSTh-xVI/AAAAAAAADLQ/lEJl0Yynvh0ZQSB71pBaiy87Qs74duhywCLcBGAsYHQ/s974/angular.png align="center")
 
 ---
 
